@@ -4,7 +4,7 @@ const Api = [
         prenom: 'ahmed',
         nom: 'mannai', 
         photo: "./images/dev.png", 
-        age: 25,
+        age: 31,
         profession: 'Développeur Web'
     },
     { 
@@ -20,7 +20,7 @@ const Api = [
         prenom: 'Tarek',
         nom: 'Rhit', 
         photo: "./images/man.png", 
-        age: 25,
+        age: 2500,
         profession: 'Développeur Web'
     },
     { 
@@ -28,7 +28,7 @@ const Api = [
         prenom: 'Hamdi',
         nom: 'Abidli', 
         photo: "./images/dev.png", 
-        age: 25,
+        age: 32,
         profession: 'Développeur Web'
     },
     { 
@@ -36,7 +36,7 @@ const Api = [
         prenom: 'Kaouther',
         nom: 'Ouertani', 
         photo: "./images/femme.jpg", 
-        age: 25,
+        age: 55,
         profession: 'Développeur Web'
     },
     { 
@@ -44,7 +44,7 @@ const Api = [
         prenom: 'Mputo',
         nom: 'Mputo', 
         photo: "./images/joueur.jpg", 
-        age: 25,
+        age: 34,
         profession: 'Joueur'
     },
     { 
@@ -52,7 +52,7 @@ const Api = [
         prenom: 'Monther',
         nom: 'Lekbayer', 
         photo: "./images/ent.jpg", 
-        age: 25,
+        age: 45,
         profession: 'Entrenneur'
     },
     { 
@@ -60,7 +60,7 @@ const Api = [
         prenom: 'Youssef',
         nom: 'Msakni', 
         photo: "./images/joueur.jpg", 
-        age: 25,
+        age: 32,
         profession: 'Joueur'
     }
 
